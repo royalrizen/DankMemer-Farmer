@@ -1,4 +1,4 @@
-# Dank Farmer
+# Dank Farmer <img src="https://cdn.discordapp.com/avatars/270904126974590976/cdf4f2cfaf99b4fc6bdbf050f917f6b2.png?size=4096" width=35>
 
 An asynchronous Python script for automating **Dank Memer** commands and mini-games.
 
