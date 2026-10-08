@@ -12,7 +12,7 @@ An asynchronous Python script for automating **Dank Memer** commands and mini-ga
 
 - hunt, beg, dig
 - high low, search, crime (It also has more chances of winning high low games.)
-- humanized delays to avoid bot detection.
+- humanized delays and typing indicator to avoid bot detection.
   
 *More features are coming soon!*
 
