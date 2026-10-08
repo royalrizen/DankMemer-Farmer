@@ -1,4 +1,4 @@
-# Dank Farmer Farmer
+# Dank Farmer
 
 An asynchronous Python script for automating **Dank Memer** commands and mini-games.
 
