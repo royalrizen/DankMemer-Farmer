@@ -61,3 +61,4 @@ Start your Bot
 farm
 ```
 Have fun! ;)
+Star the project if you liked it.
