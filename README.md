@@ -1,9 +1,19 @@
-# Dank Farmer
+# Dank Farmer Farmer
 
-An asynchronous Python script for automating **Dank Memer** commands and mini-games using `aiohttp` and Discord Gateway WebSockets.
+An asynchronous Python script for automating **Dank Memer** commands and mini-games.
+
+<br>
 
 > [!CAUTION]
 > Self-bots violate Discord's Terms of Service. Use at your own risk. I'm not responsible if your account gets suspended/banned from Discord or Dank Memer.
+
+
+### Features?
+
+- hunt, beg, dig
+- high low, search, crime (It also has more chances of winning high low games.)
+
+*More features are coming soon!*
 
 ---
 
